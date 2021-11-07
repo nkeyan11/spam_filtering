@@ -1,0 +1,7 @@
+pandas
+regex
+scikit-learn
+nltk
+Flask
+Flask-Cors
+gunicorn
